@@ -2,6 +2,10 @@
 
 - Graduate Computer Science Student
 
+- 🌱 I’m currently learning PHP, Laravel
+
+- 🌱 I’m currently learning NodeJS, MongoDB
+
 - 🌱 I’m currently learning Java, Springboot, MySQL
 
 ### 📫 Get In Touch
